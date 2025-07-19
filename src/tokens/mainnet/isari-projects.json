@@ -1,0 +1,14 @@
+{
+  "chainId": 101,
+  "address": "DeXbqLzfTkPrZywDSX3Jcc35vwmnMgrbz7BpbNN8G3bt",
+  "symbol": "ISARI",
+  "name": "ISARI PROJECTS",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/citizenape/token-list-1/main/assets/mainnet/DeXbqLzfTkPrZywDSX3Jcc35vwmnMgrbz7BpbNN8G3bt/logo.png",
+  "tags": ["utility"],
+  "extensions": {
+    "coingeckoId": "",
+    "website": "https://www.isariprojects.com",
+    "X": "https://x.com/IsariProjects"
+  }
+}
